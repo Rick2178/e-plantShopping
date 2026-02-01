@@ -1,3 +1,7 @@
-.App { max-width: 1200px; margin: 0 auto; padding: 20px; }
-.navbar { background: #4CAF50; color: white; padding: 1rem; display: flex; justify-content: space-between; }
-button { background: #4CAF50; color: white; border: none; padding: 0.5rem 1rem; cursor: pointer; }
+.App {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background-image: url('https://images.unsplash.com/photo-1585320806297-9794b3e4eeae');
+  background-size: cover;
+  padding: 20px;
+}
