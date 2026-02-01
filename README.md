@@ -1,6 +1,5 @@
 # e-plantShopping
 
-Paradise Nursery - Shopping cart application for indoor plants.
+Paradise Nursery - Shopping cart React app.
 
-**Repository:** e-plantShopping  
-**Live Demo:** https://ricpat78.github.io/e-plantShopping/
+**Repository:** e-plantShopping
